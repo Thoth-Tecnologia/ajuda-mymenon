@@ -2,11 +2,11 @@
 
 * [🎆 Novidades](README.md)
 
-## Guides
+## Páginas
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Creating your first project](paginas/creating-your-first-project.md)
+* [Creating your first task](paginas/creating-your-first-task.md)
+* [Advanced permissions](paginas/advanced-permissions.md)
 
 ## Fundamentals
 
