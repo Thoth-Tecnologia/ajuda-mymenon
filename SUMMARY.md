@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🎆 Novidades](README.md)
+* [Bem Vindo](README.md)
+* [🎆 Novidades](<README (1).md>)
 
 ## MÓDULOS
 
