@@ -2,28 +2,30 @@
 
 * [🎆 Novidades](README.md)
 
+## MÓDULOS
+
+* [Delivery](modulos/delivery.md)
+* [Cardapio](modulos/cardapio/README.md)
+  * [Horário de Exibição](modulos/cardapio/horario-de-exibicao.md)
+* [Cupons](modulos/cupons.md)
+
+## QR Code
+
+* [Mesa](qr-code/mesa.md)
+* [Único](qr-code/unico.md)
+* [Ticket](qr-code/ticket.md)
+* [Link](qr-code/link.md)
+
+## Integrações
+
+* [iFood](integracoes/ifood.md)
+* [Focus NFC-e](integracoes/focus-nfc-e.md)
+
 ## Páginas
 
-* [Creating your first project](paginas/creating-your-first-project.md)
-* [Creating your first task](paginas/creating-your-first-task.md)
-* [Advanced permissions](paginas/advanced-permissions.md)
-
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Painel de Controle](paginas/painel-de-controle.md)
+* [Configurações](paginas/configuracoes.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Menon Printer](extras/menon-printer.md)
