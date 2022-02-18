@@ -28,4 +28,7 @@
 
 ## Extras
 
-* [Menon Printer](extras/menon-printer.md)
+* [Menon Printer](extras/menon-printer/README.md)
+  * [Configurações](extras/menon-printer/configuracoes.md)
+  * [Problemas Comuns](extras/menon-printer/problemas-comuns.md)
+  * [Baixar instalador](https://drive.google.com/drive/folders/1Iv3K6FPAvsgWgJclCazQ0pZpcTY1ghsD)
