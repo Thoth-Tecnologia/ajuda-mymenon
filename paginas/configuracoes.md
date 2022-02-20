@@ -14,8 +14,8 @@ Projects are containers for task lists. Think of them as a library for everythin
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../modulos/delivery.md" %}
-[delivery.md](../modulos/delivery.md)
+{% content-ref url="../modulos/delivery-take-away.md" %}
+[delivery-take-away.md](../modulos/delivery-take-away.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

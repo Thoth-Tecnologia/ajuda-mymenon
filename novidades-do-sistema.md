@@ -8,6 +8,6 @@
 Solução completa pra **** você **vender mais**
 {% endhint %}
 
-{% content-ref url="modulos/delivery.md" %}
-[delivery.md](modulos/delivery.md)
+{% content-ref url="modulos/delivery-take-away.md" %}
+[delivery-take-away.md](modulos/delivery-take-away.md)
 {% endcontent-ref %}

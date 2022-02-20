@@ -5,10 +5,31 @@
 
 ## MÓDULOS
 
-* [Delivery](modulos/delivery.md)
-* [Cardápio](modulos/cardapio/README.md)
-  * [Horário de Exibição](modulos/cardapio/horario-de-exibicao.md)
-* [Cupons](modulos/cupons.md)
+* [Painel](modulos/painel/README.md)
+  * [Copy of Horário de Exibição](modulos/painel/copy-of-horario-de-exibicao.md)
+* [Cardápios](modulos/cardapios/README.md)
+  * [Horário de Exibição](modulos/cardapios/horario-de-exibicao.md)
+* [Pedidos](modulos/pedidos/README.md)
+  * [Copy of Horário de Exibição](modulos/pedidos/copy-of-horario-de-exibicao.md)
+* [Mesas](modulos/mesas/README.md)
+  * [Copy of Copy of Horário de Exibição](modulos/mesas/copy-of-copy-of-horario-de-exibicao.md)
+* [Cupons](modulos/cupons/README.md)
+  * [Copy of Copy of Copy of Horário de Exibição](modulos/cupons/copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Usuários](modulos/usuarios/README.md)
+  * [Copy of Copy of Copy of Horário de Exibição](modulos/usuarios/copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Financeiro](modulos/financeiro/README.md)
+  * [Copy of Copy of Copy of Copy of Horário de Exibição](modulos/financeiro/copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Relatórios](modulos/relatorios/README.md)
+  * [Copy of Copy of Copy of Copy of Horário de Exibição](modulos/relatorios/copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Configurações](modulos/configuracoes/README.md)
+  * [Copy of Copy of Copy of Copy of Copy of Horário de Exibição](modulos/configuracoes/copy-of-copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Monitor de Preparo KDS](modulos/monitor-de-preparo-kds/README.md)
+  * [Copy of Copy of Copy of Copy of Copy of Copy of Horário de Exibição](modulos/monitor-de-preparo-kds/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Painel de Pedidos](modulos/painel-de-pedidos/README.md)
+  * [Copy of Copy of Copy of Copy of Copy of Copy of Copy of Horário de Exibição](modulos/painel-de-pedidos/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [App Autoatendimento](modulos/app-autoatendimento/README.md)
+  * [Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Horário de Exibição](modulos/app-autoatendimento/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-horario-de-exibicao.md)
+* [Delivery / Take Away](modulos/delivery-take-away.md)
 
 ## QR Code
 
