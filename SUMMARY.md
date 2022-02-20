@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Olá! Bem-vindo a Central de Ajuda e Suporte Menon!](README.md)
+* [Boas Vindas a Central de Ajuda e Suporte](README.md)
 * [🎆 Novidades](<README (1).md>)
 
 ## MÓDULOS
