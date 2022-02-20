@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bem Vindo](README.md)
+* [Olá! Bem-vindo a Central de Ajuda e Suporte Menon!](README.md)
 * [🎆 Novidades](<README (1).md>)
 
 ## MÓDULOS
