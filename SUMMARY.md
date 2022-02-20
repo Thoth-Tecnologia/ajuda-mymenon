@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Olá! Seja bem Vindas a Central de Ajuda e Suporte](README.md)
+* [Olá! Seja bem Vindas a Central de Ajuda e Suporte!](README.md)
 * [🎆 Novidades](<README (1).md>)
 
 ## MÓDULOS
