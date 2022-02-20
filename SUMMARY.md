@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Olá! Seja bem-vindo a Central de Ajuda e Suporte!](README.md)
+* [🙋 Olá! Seja bem-vindo a Central de Ajuda e Suporte!](README.md)
 * [🚀 Novidades do Sistema!](novidades-do-sistema.md)
 
 ## MÓDULOS
 
-* [Painel](modulos/painel/README.md)
-  * [Copy of Horário de Exibição](modulos/painel/copy-of-horario-de-exibicao.md)
+* [Painel de Controle](modulos/painel-de-controle/README.md)
+  * [Copy of Horário de Exibição](modulos/painel-de-controle/copy-of-horario-de-exibicao.md)
 * [Cardápios](modulos/cardapios/README.md)
   * [Horário de Exibição](modulos/cardapios/horario-de-exibicao.md)
 * [Pedidos](modulos/pedidos/README.md)
