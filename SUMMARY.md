@@ -1,21 +1,21 @@
 # Table of contents
 
-* [Olá! Seja bem Vindas a Central de Ajuda e Suporte!](README.md)
-* [🎆 Novidades](<README (1).md>)
+* [Olá! Seja bem-vindo a Central de Ajuda e Suporte!](README.md)
+* [🚀 Novidades do Sistema!](novidades-do-sistema.md)
 
 ## MÓDULOS
 
 * [Delivery](modulos/delivery.md)
-* [Cardapio](modulos/cardapio/README.md)
+* [Cardápio](modulos/cardapio/README.md)
   * [Horário de Exibição](modulos/cardapio/horario-de-exibicao.md)
 * [Cupons](modulos/cupons.md)
 
 ## QR Code
 
-* [Mesa](qr-code/mesa.md)
-* [Único](qr-code/unico.md)
+* [Mesa Numerada](qr-code/mesa-numerada.md)
+* [Balcão / Mesa Única](qr-code/balcao-mesa-unica.md)
 * [Ticket](qr-code/ticket.md)
-* [Link](qr-code/link.md)
+* [Link (Delivery / Take Away)](qr-code/link-delivery-take-away.md)
 
 ## Integrações
 

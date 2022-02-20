@@ -1,4 +1,4 @@
-# 🎆 Novidades
+# 🚀 Novidades do Sistema!
 
 ## Versão 2.4: Delivery
 
