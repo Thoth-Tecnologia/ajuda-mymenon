@@ -47,7 +47,7 @@
 ## Integrações
 
 * [iFood](integracoes/ifood.md)
-* [Focus NFC-e](integracoes/focus-nfc-e.md)
+* [Emissão de NFC-e](integracoes/emissao-de-nfc-e.md)
 
 ## Páginas
 
