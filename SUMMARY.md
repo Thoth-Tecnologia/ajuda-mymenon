@@ -72,11 +72,6 @@
 * [iFood](integracoes/ifood.md)
 * [Emissão de NFC-e](integracoes/emissao-de-nfc-e.md)
 
-## Páginas
-
-* [Painel de Controle](paginas/painel-de-controle.md)
-* [Configurações](paginas/configuracoes.md)
-
 ## Extras
 
 * [Menon Printer](extras/menon-printer/README.md)
