@@ -15,7 +15,7 @@
   * [Lista por Mesa](modulos/pedidos-pdv/lista-por-mesa.md)
   * [Adicionar Pedido](modulos/pedidos-pdv/adicionar-pedido.md)
   * [Pedidos Cancelados](modulos/pedidos-pdv/pedidos-cancelados.md)
-  * [Telas de Preparo](modulos/pedidos-pdv/telas-de-preparo.md)
+  * [Telas de Preparo KDS](modulos/pedidos-pdv/telas-de-preparo.md)
   * [Gestor de Entregas](modulos/pedidos-pdv/gestor-de-entregas.md)
 * [Frente de Caixa](modulos/frente-de-caixa/README.md)
   * [Abrir Caixa](modulos/frente-de-caixa/abrir-caixa.md)
@@ -47,10 +47,7 @@
   * [Editar Dados](modulos/configuracoes/editar-dados.md)
   * [Funcionamento](modulos/configuracoes/funcionamento.md)
   * [Integrações](modulos/configuracoes/integracoes.md)
-* [Telas de Preparo KDS](modulos/telas-de-preparo-kds/README.md)
-  * [Display Cozinha](modulos/telas-de-preparo-kds/display-cozinha.md)
-  * [Display Bar](modulos/telas-de-preparo-kds/display-bar.md)
-  * [Display Copa](modulos/telas-de-preparo-kds/display-copa.md)
+* [Telas de Preparo KDS](modulos/telas-de-preparo-kds.md)
 * [Painel de Pedidos](modulos/painel-de-pedidos.md)
 * [Delivery / Take Away](modulos/delivery-take-away.md)
 * [Comanda Eletrônica (Garçom)](modulos/comanda-eletronica-garcom.md)
@@ -62,7 +59,7 @@
 * [Ticket](qr-code/ticket.md)
 * [Link (Delivery / Take Away)](qr-code/link-delivery-take-away.md)
 
-## App Autoatendimento  Delivery / Take Away
+## App Autoatendimento Delivery / Take Away
 
 * [App Autoatendimento](app-autoatendimento-delivery-take-away/app-autoatendimento.md)
 * [App Delivery / Take Away](app-autoatendimento-delivery-take-away/app-delivery-take-away.md)
