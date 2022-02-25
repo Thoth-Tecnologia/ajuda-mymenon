@@ -14,6 +14,6 @@
 
 ![](../../.gitbook/assets/cancelar.pedidos.4.gif)
 
-* Para visualizar o(s) item(s) cancelados, clique no botão ![](<../../.gitbook/assets/image (1).png>);
+* Para visualizar o(s) item(s) cancelados, clique no botão ![](<../../.gitbook/assets/image (1) (1).png>);
 
 ![](../../.gitbook/assets/cancelar.pedidos.5.gif)

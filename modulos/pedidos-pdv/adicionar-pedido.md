@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/pedidos.1 (1).gif>)
 
-* Adicione o pedido clicando no botão: ![](<../../.gitbook/assets/image (1) (1).png>);
+* Adicione o pedido clicando no botão: ![](<../../.gitbook/assets/image (1) (2).png>);
 * Consulte e/ou adicione o cliente, selecione o local/mesa e o operador(a), depois clique em "**PRÓXIMO**";
 
 ![](../../.gitbook/assets/pedidos.2.gif)
