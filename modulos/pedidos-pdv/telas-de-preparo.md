@@ -1,8 +1,6 @@
-# Telas de Preparo
+# Telas de Preparo KDS
 
 * Para visualizar a tela de preparo, clique no botão ![](<../../.gitbook/assets/image (1).png>);
-
-
 
 ![](../../.gitbook/assets/tela.preparo1.gif)
 
@@ -14,5 +12,5 @@
 * Para **reimprimir** a comanda clique no botão  ![](<../../.gitbook/assets/image (7).png>).
 
 {% hint style="info" %}
-Ao selecionar a opção de **reimprimir**, o pedido é impresso novamente em **todos** os setores percorridos.
+Ao selecionar a opção de **reimprimir**, o pedido é impresso novamente **somente** neste local.
 {% endhint %}
