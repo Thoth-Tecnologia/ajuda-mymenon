@@ -5,7 +5,7 @@
 ![](../../.gitbook/assets/tela.preparo1.gif)
 
 * Selecione o setor desejado, clique nos botões: **COZINHA**, **BAR**, **COPA**;
-* Na tela de preparo selecionada, irão aparecer os pedidos e o **status** do pedido: **PREPARAR**, **FINALIZAR**, **ENTREGUE**, respectivamente;
+* Na tela de preparo selecionada, irão aparecer os pedidos e o **status** do pedido: **PREPARAR**, **FINALIZAR** e **ENTREGUE**, respectivamente;
 
 ![](../../.gitbook/assets/tela.preparo2.gif)
 

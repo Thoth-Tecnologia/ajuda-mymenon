@@ -15,6 +15,7 @@
   * [Lista por Mesa](modulos/pedidos-pdv/lista-por-mesa.md)
   * [Adicionar Pedido](modulos/pedidos-pdv/adicionar-pedido.md)
   * [Pedidos Cancelados](modulos/pedidos-pdv/pedidos-cancelados.md)
+  * [Comanda](modulos/pedidos-pdv/comanda.md)
   * [Telas de Preparo KDS](modulos/pedidos-pdv/telas-de-preparo.md)
   * [Gestor de Entregas](modulos/pedidos-pdv/gestor-de-entregas.md)
 * [Frente de Caixa](modulos/frente-de-caixa/README.md)
@@ -50,6 +51,7 @@
 * [Telas de Preparo KDS](modulos/telas-de-preparo-kds.md)
 * [Painel de Pedidos](modulos/painel-de-pedidos.md)
 * [Delivery / Take Away](modulos/delivery-take-away.md)
+* [App Motoboy (Entregador)](modulos/app-motoboy-entregador.md)
 * [Comanda Eletrônica (Garçom)](modulos/comanda-eletronica-garcom.md)
 
 ## QR Code
