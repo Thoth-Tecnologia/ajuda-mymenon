@@ -48,6 +48,7 @@
   * [Editar Dados](modulos/configuracoes/editar-dados.md)
   * [Funcionamento](modulos/configuracoes/funcionamento.md)
   * [Integrações](modulos/configuracoes/integracoes.md)
+* [Notificações](modulos/notificacoes.md)
 * [Telas de Preparo KDS](modulos/telas-de-preparo-kds.md)
 * [Painel de Pedidos](modulos/painel-de-pedidos.md)
 * [Delivery / Take Away](modulos/delivery-take-away.md)
