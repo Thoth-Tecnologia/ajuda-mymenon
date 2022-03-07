@@ -1,6 +1,6 @@
 # Painel de Controle
 
-* No painel de controle você terá um **resumo dos dados** do ultimo horário de funcionamento:
+* No painel de controle você terá um **resumo dos dados** do último horário de funcionamento:
 
 ![](<../.gitbook/assets/image (62).png>)
 
