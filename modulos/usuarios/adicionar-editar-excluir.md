@@ -1,5 +1,9 @@
-# Adicionar / Editar / Excluir
+# Editar Usuários
+
+* Na tela "**Usuários**" clique no botão ![](<../../.gitbook/assets/image (49).png>) para **editar** um usuário:
+
+![](<../../.gitbook/assets/editar usuario.gif>)
 
 {% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
+Lembre-se de salvar as alterações feitas no usuário.
 {% endhint %}

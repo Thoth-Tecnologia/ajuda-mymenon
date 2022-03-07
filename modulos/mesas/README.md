@@ -1,5 +1,7 @@
 # Mesas
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Na tela "**MESAS**"**,** clique no botão ![](<../../.gitbook/assets/image (16).png>) para adicionar uma mesa;
+* Preencha os dados da mesa, depois clique em "**SALVAR**";
+
+![](<../../.gitbook/assets/adicionar mesa.gif>)
+

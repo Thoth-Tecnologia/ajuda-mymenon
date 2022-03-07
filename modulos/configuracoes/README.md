@@ -1,5 +1,3 @@
 # Configurações
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Na tela de configurações é possível realizar a alteração de dados e informações do restaurante.

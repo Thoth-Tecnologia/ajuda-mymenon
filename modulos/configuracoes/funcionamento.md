@@ -1,5 +1,5 @@
 # Funcionamento
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Selecione o(s) horário(s) de funcionamento do sistema:
+
+![](<../../.gitbook/assets/image (57).png>)

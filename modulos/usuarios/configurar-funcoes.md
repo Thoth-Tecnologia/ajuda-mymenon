@@ -1,5 +1,5 @@
 # Configurar Funções
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Para **configurar** as **funções** de cada usuário, clique no botão ![](<../../.gitbook/assets/image (53).png>) e selecione as funções desejadas para aquele usuário:
+
+![](<../../.gitbook/assets/image (7).png>)

@@ -1,6 +1,6 @@
 # Gestor de Entregas
 
-* Para acessar o gestor de entregas, clique no botão ![](<../../.gitbook/assets/image (9).png>) na tela de pedidos;
+* Para acessar o gestor de entregas, clique no botão ![](<../../.gitbook/assets/image (9) (1).png>) na tela de pedidos;
 
 ![](../../.gitbook/assets/gestor.entregas1.gif)
 

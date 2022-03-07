@@ -1,5 +1,6 @@
 # Indicadores
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+Na tela de **relatórios** é possível visualizar os **indicadores** (compras, formas de pagamento, pedidos ifood, etc.) de forma geral e com acesso rápido:
+
+![](<../../.gitbook/assets/image (14).png>)
+

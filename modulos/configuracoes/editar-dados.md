@@ -1,5 +1,5 @@
 # Editar Dados
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Na tela "**CONFIGURAÇÕES**" é possível **editar** e/ou atualizar as informações do restaurante:
+
+![](<../../.gitbook/assets/image (11).png>)

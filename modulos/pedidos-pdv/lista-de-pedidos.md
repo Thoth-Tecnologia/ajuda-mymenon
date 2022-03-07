@@ -1,5 +1,5 @@
 # Lista de Pedidos
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Na lista de **pedidos**, é possível visualizar os pedidos de maneira ordenada:&#x20;
+
+![](../../.gitbook/assets/Screenshot\_2022-03-07\_at\_16-24-36\_Menon\_-\_Painel\_Administrativo.png)

@@ -1,5 +1,5 @@
 # Configurar Relatório
 
-{% hint style="info" %}
-Estamos trabalhando para trazer todo conhecimento para facilitar sua vida 👍
-{% endhint %}
+* Na tela de relatórios, clique no botão ![](<../../.gitbook/assets/image (32).png>)  para **configurar:**
+
+![](<../../.gitbook/assets/configurar relatorio.gif>)
