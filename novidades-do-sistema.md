@@ -8,10 +8,6 @@ description: Solução completa pra você vender mais!
 
 {% hint style="info" %}
 **Gestor de Entregas e Aplicativo para Entregador!**
-
-**Confira as funcionalidades:**
-
-* R
 {% endhint %}
 
 ### **Confira as atualizações**
