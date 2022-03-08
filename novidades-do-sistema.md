@@ -11,14 +11,7 @@ description: Solução completa pra você vender mais!
 
 **Confira as funcionalidades:**
 
-* Rota da Área de Entrega por Distância ou por Tempo;&#x20;
-* Cálculo da Taxa de Entrega por Distância, Tempo ou Fixo (serviço);
-* Projeção de Taxas;&#x20;
-* Mapa Interativo para visualizar os Pedidos;&#x20;
-* Status de preparo dos Pedidos para Despache;
-* Agrupamento dos Pedidos para gerar Rota(s) de Entrega;
-* Impressão da(s) Rota(s) por QR Code;
-* Entregador scanea no momento do despache para realizar as entregas com facilidade;
+* R
 {% endhint %}
 
 ### **Confira as atualizações**
