@@ -7,7 +7,18 @@ description: Solução completa pra você vender mais!
 ## Versão 2.4: Delivery
 
 {% hint style="info" %}
-**Agora temos Delivery!**
+**Gestor de Entregas e Aplicativo para Entregador!**
+
+**Confira as funcionalidades:**
+
+* Rota da Área de Entrega por Distância ou por Tempo;&#x20;
+* Cálculo da Taxa de Entrega por Distância, Tempo ou Fixo (serviço);
+* Projeção de Taxas;&#x20;
+* Mapa Interativo para visualizar os Pedidos;&#x20;
+* Status de preparo dos Pedidos para Despache;
+* Agrupamento dos Pedidos para gerar Rota(s) de Entrega;
+* Impressão da(s) Rota(s) por QR Code;
+* Entregador scanea no momento do despache para realizar as entregas com facilidade;
 {% endhint %}
 
 ### **Confira as atualizações**
