@@ -24,11 +24,11 @@ Realizamos algumas atualizações no módulo **“Adicionar Pedidos”**, além 
 {% hint style="info" %}
 Realizamos algumas atualizações e melhorias no Backoffice, nas quais consiste em:
 
-* Adicionar Pedidos Balcão (novo)
-* Adicionar Pedidos Mesa / Única (ajuste)
-* Adicionar Pedidos Entrega (novo)
-* Adicionar Pedidos Retirada (novo)
-* Venda Rápida (novo)
+* Adicionar Pedidos Balcão  <mark style="color:red;">**NOVO**</mark>
+* Adicionar Pedidos Mesa / Única AJUSTE
+* Adicionar Pedidos Entrega  <mark style="color:red;">**NOVO**</mark>
+* Adicionar Pedidos Retirada <mark style="color:red;">**NOVO**</mark>
+* Venda Rápida  <mark style="color:red;">**NOVO**</mark>
 * Ajustes no Cadastro Cliente
 * Ajustes em Visualizar Pedidos
 * Ajustes em Editar Pedidos
