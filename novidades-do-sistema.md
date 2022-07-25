@@ -4,6 +4,58 @@ description: Solução completa pra você vender mais!
 
 # 🚀 Novidades do Sistema!
 
+## Versão 2.5.1: **Adicionar Pedidos**
+
+{% hint style="info" %}
+Realizamos algumas atualizações no módulo **“Adicionar Pedidos”**, além de melhorias no Backoffice, nas quais consiste em:\
+\
+**Pedidos Balcão, Mesa Numerada e Única:**\
+**-** Adicionar Pedidos sem a necessidade de realizar o cadastro do cliente;\
+**-** Você pode adicionar um "Nome/Apelido" ou qualquer coisa para se referenciar ao consumidor.\
+\
+**Impressões:**\
+**-** Ajustes nas Impressões Comanda Caixa;\
+**-** Ajustes nas Impressões Pedidos (Cozinha/Bar/Copa) inserido o nome do Cliente para facilitar a identificação;\
+**-** Atualização do Menon Printer versão 2.0.8.
+{% endhint %}
+
+## Versão 2.5
+
+{% hint style="info" %}
+Realizamos algumas atualizações e melhorias no Backoffice, nas quais consiste em:
+
+* Adicionar Pedidos Balcão (novo)
+* Adicionar Pedidos Mesa / Única (ajuste)
+* Adicionar Pedidos Entrega (novo)
+* Adicionar Pedidos Retirada (novo)
+* Venda Rápida (novo)
+* Ajustes no Cadastro Cliente
+* Ajustes em Visualizar Pedidos
+* Ajustes em Editar Pedidos
+* Ajustes no Caixa
+* Ajustes no Relatório
+* Ajustes nos KDS
+* Ajustes nas Mesas
+* Ajustes nas Notificações
+* Ajustes nas Impressões (Pedidos e Comanda)
+{% endhint %}
+
+## Versão 2.4.1: Caixa
+
+{% hint style="info" %}
+**Caixa**
+
+* **Abertura de Caixa:** O valor de abertura é verificado automaticamente se o saldo de fechamento do caixa anterior é correspondente ao de abertura;
+* **Abertura de Caixa:** É verificado se o dado é o valor esperado, caso for diferente ele informa o valor de quebra e requisita autorização (login e senha) para realizar a abertura;
+* **Fechamento de Caixa:** Novos campos de indicadores (Total Esperado e Diferença);
+* **Fechamento de Caixa:** Total de Gaveta com lançamento manual do valor para confrontar se o operador está verificando se os valores em espécie estão sendo contabilizados;
+* **Fechamento de Caixa:** No campo editável para lançar o “Valor de Gaveta” com opção de Contador automático de Notas e Moedas.
+
+**Relatórios**
+
+* **Movimento de Caixa:** Ajuste na tabela com os novos indicadores: Total Esperado e Diferença.
+{% endhint %}
+
 ## Versão 2.4: Delivery
 
 {% hint style="info" %}
